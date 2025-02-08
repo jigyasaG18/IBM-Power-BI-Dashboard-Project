@@ -1,7 +1,3 @@
-Based on the provided dataset structure and insights into employee attrition, here’s an elaborative README file that includes a brief dataset example while contextualizing it within the scope of your Power BI dashboard project.
-
----
-
 # IBM Power BI Dashboard Project
 
 ## Project Overview
