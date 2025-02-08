@@ -58,5 +58,4 @@ Through the analysis of the dataset, several significant insights into employee 
 
 The IBM Power BI Dashboard Project is a powerful resource for understanding and addressing employee attrition. By leveraging the insights gathered from the dataset, organizations can formulate data-driven strategies to improve workforce sustainability and employee satisfaction.
 
-
 ![IBM Power BI Dashboard Project](https://github.com/user-attachments/assets/3d167723-1120-4dc6-9284-adaf8c96694e)
